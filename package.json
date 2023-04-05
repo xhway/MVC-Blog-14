@@ -1,0 +1,27 @@
+{
+  "name": "mvc-blog-14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhway/MVC-Blog-14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhway/MVC-Blog-14/issues"
+  },
+  "homepage": "https://github.com/xhway/MVC-Blog-14#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.2.0",
+    "sequelize": "^6.30.0"
+  }
+}
