@@ -1,0 +1,96 @@
+body{
+    background-color: black;
+    color:rgb(0, 202, 0);
+}
+
+.navTitle{
+    font-weight: 900;
+    font-size: x-large;
+    color:rgb(0, 202, 0)
+}
+.blogBox{
+    margin-top: 8px;
+    border-style:solid;
+}
+.blogTitle{
+    text-decoration: none;
+    color: rgb(0, 202, 0);
+}
+.blogDesc{
+    border-style: solid;
+    margin-bottom:5px;
+    padding:2px;
+    background-color: black;
+    border-color:rgb(0, 202, 0) ;
+}
+.blogDescMain{
+    font-weight:700;
+}
+.blogDescTwo{
+    font-size: 25px;
+    font-style:normal;
+}
+.blogCreate{
+    font-weight: bold;
+    font-style:italic;
+    font-size:12px;
+    padding:5px;
+    color: rgb(0, 202, 0);
+}
+.blogBoxCont{
+    margin-top: 10px;
+    border-style:solid;
+    background-color: black;
+    border-color:rgb(0, 202, 0);
+}
+.formCont{
+  margin-top: 10px;
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.commentCont{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 75%;
+    background-color: black;
+}
+.commentOwner{
+    font-size: 14px;
+    color:rgb(0, 202, 0);
+}
+.btnComment{
+    margin-top: 10px;
+}
+.commentText{
+    font-weight: bold;
+    padding-top:10px;
+    background-color: black;
+    color:rgb(0, 202, 0);
+}
+.commentCont{
+    border-style: solid;
+}
+.headerRow{
+    
+    margin-bottom:10px;
+}
+a:link{
+    color:dodgerblue;
+}
+a:visited{
+    color: orange;
+}
+a:hover{
+    color:dodgerblue;
+}
+.login{
+    margin-left:25px;
+}
+.signup{
+    margin-left: 25px;
+}
+.form-group{
+    margin-top: 10px;
+}
