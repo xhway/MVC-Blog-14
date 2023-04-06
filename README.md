@@ -20,7 +20,8 @@ Below are packages that need to be installed
 
 ## Usage
 
-Clink link to deployed site : 
+Clink link to deployed site : https://vast-sands-14934.herokuapp.com/
+- Sign up with username and password
 
 ## Contributors
 
